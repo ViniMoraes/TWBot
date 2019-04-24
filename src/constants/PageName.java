@@ -1,0 +1,22 @@
+package constants;
+
+public enum PageName {
+	BARRACKS,
+	HEADQUARTERS,
+	STABLE,
+	WORKSHOP,
+	SMITHY,
+	RALLY_POINT,
+	MARKET,
+	ACADEMY,
+		
+	OVERVIEW,
+	MAP,
+	REPORTS,
+	MESSAGES,
+	RANKING,
+	CLAN,
+	PROFILE,
+	PREMIUM,
+	CONFIG,
+}
